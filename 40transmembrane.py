@@ -16,6 +16,8 @@ import sys
 #   Create a function for KD calculation
 #   Create a function for amphipathic alpha-helix
 
+# I worked on this with Josh so our code will be the same
+
 def score(aa):
 	if   aa == 'I': return 4.5
 	elif aa == 'V': return 4.2
